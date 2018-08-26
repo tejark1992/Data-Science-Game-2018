@@ -3,8 +3,7 @@ COLLEGE - IIM CALCUTTA
 COUNTRY - INDIA
 PRIVATE LB RANK - 10
 
-###### 
-The zip folder has 3 code files, 1 in R and 2 in Python
+
 File 1: 
 We have used R for data preprocessing and Train & Test data creation including all the features to be used in subsequent models
 Running the entire code will create the following files which are used later.
